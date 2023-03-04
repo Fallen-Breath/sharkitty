@@ -3,6 +3,7 @@
   "package": "com.kahzerx.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "yummy.ItemGroupsMixin"
   ],
   "injectors": {
     "defaultRequire": 1
