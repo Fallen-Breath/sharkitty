@@ -3,7 +3,8 @@
   "package": "com.kahzerx.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "yummy.ItemGroupsMixin"
+    "yummy.ItemGroupsMixin",
+    "yummy.ParrotEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"com.kahzerx.Sharkitty"
+		],
+		"preLaunch": [
+			"com.kahzerx.SharkittyPreLaunch"
 		]
 	},
 	"mixins": [
